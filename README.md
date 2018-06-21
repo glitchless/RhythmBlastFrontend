@@ -18,7 +18,7 @@
 - Docker
 - Ansible, Docker registry, Travis CI
 
-🛠 Гитхаб с бекендом: https://github.com/java-park-mail-ru/Glitchless-09-2017/tree/dev
+🛠 Гитхаб с бекендом: https://github.com/glitchless/RhythmBlastBackend (тп репа: https://github.com/java-park-mail-ru/Glitchless-09-2017/tree/dev)
 
 🎻 Гитхаб с девопсом: https://github.com/reo7sp/glitchless-serv
 
